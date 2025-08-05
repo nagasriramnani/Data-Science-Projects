@@ -44,6 +44,7 @@ Explore 20+ more projects inside the folders on different topics like:
 
 
 ### 📁 Directory Structure
+```
 Data-Science-Projects/
 ├── Breast Cancer Prediction/
 ├── Heart Stroke Prediction/
@@ -51,9 +52,10 @@ Data-Science-Projects/
 ├── Calgary Crime Data Analysis and Neural Network Model/
 ├── Room Occupancy Detection/
 ├── ...many more
-
+```
 
 ---
+
 
 ### 🤝 Contributing
 
