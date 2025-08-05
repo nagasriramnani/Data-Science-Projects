@@ -1,8 +1,5 @@
 # 📊 Data Science Projects
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/yuUrDV2DAtBRvItHZ2FvXMkPbHR5NEt4kXbpp8dgK-r9jI9-irP19GJb2CvdBRYmy41KG4BxFu2Hod9GzdgGc46iYmm7As4bNNsc-JP7vYwY8d1BzHgZdvKR7H4xtLM20zR9gn0PJE-nQU0navp9Xh0pHc3Cp-CjYUENN7dWZ3NJiw8CiHFEJn7Mc0ul_A" width="80%"/>
-</p>
 
 Welcome to my **Data Science Projects Repository**! I'm **Naga Sri Ram Kochetti**, and this space showcases my practical experience and skills across Data Science, Machine Learning, and AI. These projects demonstrate real-world applications of predictive modelling, data wrangling, and analytics.
 
