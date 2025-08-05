@@ -1,63 +1,82 @@
-# 📊 Data Science Projects
+# 📊 Data Science Projects Repository
 
+Welcome to my **Data Science Projects Repository**!  
+I'm **Naga Sri Ram Kochetti**, a passionate Data Analyst & aspiring Data Scientist.  
+This repository contains hands-on projects that showcase my skills in data analysis, machine learning, deep learning, and model evaluation.  
+These projects are built with real-world datasets and include everything from data preprocessing to insightful visualizations.
 
-Welcome to my **Data Science Projects Repository**! I'm **Naga Sri Ram Kochetti**, and this space showcases my practical experience and skills across Data Science, Machine Learning, and AI. These projects demonstrate real-world applications of predictive modelling, data wrangling, and analytics.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/nagasriramnani/Data-Science-Projects?style=social) ![GitHub forks](https://img.shields.io/github/forks/nagasriramnani/Data-Science-Projects?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/nagasriramnani/Data-Science-Projects?style=social)
+![GitHub forks](https://img.shields.io/github/forks/nagasriramnani/Data-Science-Projects?style=social)
 
 ---
 
 ### 🌐 GitHub Page
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://nagasriramnani.github.io/Data-Science-Projects)
+[View GitHub Page](https://nagasriramnani.github.io/Data-Science-Projects)
 
 ---
 
-### 🧠 Highlight Projects
+### 🚀 Featured Projects
 
-Each folder includes Jupyter notebooks, datasets, and visualizations.
+Each folder includes:
+- Problem Description  
+- Data Cleaning & Exploration  
+- Model Building & Testing  
+- Performance Evaluation  
+- Visualizations
 
-📌 **Featured:**
-- **[Breast Cancer Prediction](https://github.com/nagasriramnani/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction)** – Accuracy: 97% using Logistic Regression
-- **[Heart Stroke Prediction](https://github.com/nagasriramnani/Data-Science-Projects/tree/main/Heart%20Stroke%20Prediction)** – Achieved 93.8% accuracy using Logistic Regression and SVM
-- **[House Price Prediction](https://github.com/nagasriramnani/Data-Science-Projects/tree/main/House%20Price%20Prediction)** – Used Random Forest Regressor for 87.9% accuracy
-- **[Room Occupancy Detection](https://github.com/nagasriramnani/Data-Science-Projects/tree/main/Room%20Occupancy%20Detection)** – Sensor-based detection with 98% model accuracy
-- **[Calgary Crime Forecasting](https://github.com/nagasriramnani/Data-Science-Projects/tree/main/Calgary%20Crime%20Data%20Analysis%20and%20Neural%20Network%20Model)** – LSTM for time-series prediction using real crime data
+| Project | Technology Used | Highlights |
+|--------|------------------|------------|
+| Breast Cancer Prediction | Logistic Regression, Decision Tree | Achieved 97% accuracy |
+| Heart Stroke Prediction | Logistic Regression, SVM | 93.8% accuracy |
+| House Price Prediction | Linear, Ridge, Random Forest | Best accuracy of 87.9% |
+| Room Occupancy Detection | Random Forest Classifier | 98% model accuracy |
+| Calgary Crime Forecasting | LSTM Neural Network | Time series prediction on crime data |
 
-📂 Check out the full list of **24+ projects** inside the repository folders for diverse datasets and algorithms.
+Explore 20+ more projects inside the folders on different topics like:
+- Healthcare
+- Finance
+- Real Estate
+- Retail
+- Public Safety
+- Customer Behavior
 
 ---
 
-### 📁 Directory Structure
-```
+### 🗂 Folder Structure
+
 Data-Science-Projects/
 ├── Breast Cancer Prediction/
 ├── Heart Stroke Prediction/
 ├── House Price Prediction/
 ├── Calgary Crime Data Analysis and Neural Network Model/
 ├── Room Occupancy Detection/
-├── ...many more
-```
+├── ...more folders
+
+yaml
+Copy
+Edit
 
 ---
 
 ### 🤝 Contributing
-Contributions are welcome! If you'd like to collaborate or suggest changes, check the [CONTRIBUTING.md](https://github.com/nagasriramnani/Data-Science-Projects/blob/main/CONTRIBUTING.md).
+
+Contributions are welcome!  
+If you'd like to suggest changes or collaborate, please read the [CONTRIBUTING.md](https://github.com/nagasriramnani/Data-Science-Projects/blob/main/CONTRIBUTING.md).
 
 ---
 
 ### ⭐ Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=nagasriramnani/Data-Science-Projects&type=Timeline)](https://star-history.com/#nagasriramnani/Data-Science-Projects&Timeline)
 
 ---
 
-### 💬 Join the Discussion
-Start a conversation or get help on the [Discussions Page](https://github.com/nagasriramnani/Data-Science-Projects/discussions). Share your feedback, questions, or ideas.
+### 💬 Let's Connect
 
----
+If you have feedback, questions, or want to collaborate:
 
-### 📬 Contact
-If you have feedback, collaboration requests, or just want to connect:
-- 📧 Email: nagasriramkochetti@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/nagasriramkochetti)
+- Email: nagasriramkochetti@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/nagasriramkochetti  
 
-Thanks for checking out my work! 🚀
+Thank you for visiting my repository! 🙌  
+If you found this helpful, feel free to ⭐ the repo!
