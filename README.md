@@ -42,19 +42,16 @@ Explore 20+ more projects inside the folders on different topics like:
 
 ---
 
-### 🗂 Folder Structure
 
+### 📁 Directory Structure
 Data-Science-Projects/
 ├── Breast Cancer Prediction/
 ├── Heart Stroke Prediction/
 ├── House Price Prediction/
 ├── Calgary Crime Data Analysis and Neural Network Model/
 ├── Room Occupancy Detection/
-├── ...more folders
+├── ...many more
 
-yaml
-Copy
-Edit
 
 ---
 
