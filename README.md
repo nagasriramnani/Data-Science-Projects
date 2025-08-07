@@ -64,11 +64,7 @@ If you'd like to suggest changes or collaborate, please read the [CONTRIBUTING.m
 
 ---
 
-### ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=nagasriramnani/Data-Science-Projects&type=Timeline)](https://star-history.com/#nagasriramnani/Data-Science-Projects&Timeline)
-
----
 
 ### 💬 Let's Connect
 
